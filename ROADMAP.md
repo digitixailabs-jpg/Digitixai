@@ -1,7 +1,7 @@
 # ROADMAP.md — Plan d'Exécution
 
 > Dernière mise à jour : 2026-02-17
-> Statut : Phase 0 (Setup)
+> Statut : Phase 1 (Lancement)
 
 ---
 
@@ -34,46 +34,48 @@ Phase 4 — SCALE (Mois 6-12)
 
 | Tâche | Statut | Priorité |
 |---|---|---|
-| Créer le profil Malt complet (bio, compétences, portfolio) | ⬜ À faire | 🔴 Critique |
-| Screenshots dashboards PayloadDiff + Leak Detector pour portfolio | ⬜ À faire | 🔴 Critique |
-| Photo de profil pro (fond neutre, lumière naturelle) | ⬜ À faire | 🔴 Critique |
-| Créer / optimiser profil LinkedIn | ⬜ À faire | 🔴 Critique |
-| Créer compte Twitter/X | ⬜ À faire | 🟡 Important |
-| Créer compte Cal.com (prise de RDV) | ⬜ À faire | 🟡 Important |
-| Créer compte Brevo pour newsletter | ⬜ À faire | 🟡 Important |
+| Créer le profil Malt complet (bio, compétences, portfolio) | ✅ Fait | 🔴 Critique |
+| Screenshots dashboards PayloadDiff + Leak Detector pour portfolio | 🟡 Partiel (Leak Detector fait, PayloadDiff en attente lancement marketing) | 🔴 Critique |
+| Photo de profil pro (fond neutre, lumière naturelle) | ✅ Fait | 🔴 Critique |
+| Créer / optimiser profil LinkedIn | ✅ Fait | 🔴 Critique |
+| Créer compte Twitter/X | ✅ Fait (@FabGangi) | 🟡 Important |
+| Créer compte Cal.com (prise de RDV) | ✅ Fait (cal.com/altidigitech) | 🟡 Important |
+| Créer compte Brevo pour newsletter | ✅ Fait (contact@altidigitech.com) | 🟡 Important |
 
 ### Site perso
 
 | Tâche | Statut | Priorité |
 |---|---|---|
-| Acheter domaine ([prenom-nom].dev ou [brand].com) | ⬜ À faire | 🔴 Critique |
-| Déployer site one-page sur Vercel (Next.js) | ⬜ À faire | 🔴 Critique |
-| Section Hero (accroche + CTA) | ⬜ À faire | 🔴 Critique |
-| Section Preuves (2 SaaS avec screenshots) | ⬜ À faire | 🔴 Critique |
-| Section Offres packagées (3 offres avec prix) | ⬜ À faire | 🔴 Critique |
-| Section Contact (Cal.com embed + liens) | ⬜ À faire | 🔴 Critique |
-| Section Témoignages (vide avec placeholder) | ⬜ À faire | 🟢 Normal |
-| Formulaire inscription newsletter (Brevo) | ⬜ À faire | 🟡 Important |
+| Acheter domaine ([prenom-nom].dev ou [brand].com) | ✅ Existant (altidigitech.com) | 🔴 Critique |
+| Déployer site one-page sur Vercel (Next.js) | ✅ Fait | 🔴 Critique |
+| Section Hero (accroche + CTA) | ✅ Fait (CTA → Cal.com) | 🔴 Critique |
+| Section Preuves (2 SaaS avec screenshots) | ✅ Fait (Leak Detector + PayloadDiff) | 🔴 Critique |
+| Section Offres packagées (3 offres avec prix) | ✅ Fait (Audit 990€, API/IA 2500€, MVP SaaS 4900€) | 🔴 Critique |
+| Section Contact (Cal.com embed + liens) | ✅ Fait | 🔴 Critique |
+| Section Témoignages | ⬜ À faire (pas encore de clients) | 🟢 Normal |
+| Formulaire inscription newsletter (Brevo) | ✅ Fait | 🟡 Important |
 | Analytics (Plausible ou Umami) | ⬜ À faire | 🟢 Normal |
-| Configurer Cloudflare DNS | ⬜ À faire | 🟢 Normal |
+| Configurer Cloudflare DNS | ⬜ À vérifier | 🟢 Normal |
 
 ### Repo & Outils
 
 | Tâche | Statut | Priorité |
 |---|---|---|
-| Ce repo GitHub freelance-hub = live | ⬜ À faire | 🟡 Important |
+| Ce repo GitHub freelance-hub = live | ✅ Fait (digitixailabs-jpg/Digitixai) | 🟡 Important |
 | Profil README GitHub optimisé | ⬜ À faire | 🟢 Normal |
-| Template de devis prêt (PDF ou Notion) | ⬜ À faire | 🟡 Important |
-| Template de facture (Henrri ou Tiime) | ⬜ À faire | 🟡 Important |
+| Template de devis prêt (PDF ou Notion) | ✅ Fait (Henrri — compte créé, config admin en attente) | 🟡 Important |
+| Template de facture (Henrri ou Tiime) | ✅ Fait (Henrri) | 🟡 Important |
 | CRM simplifié (Notion ou Google Sheet) | ⬜ À faire | 🟢 Normal |
 
 ### Critère de sortie Phase 0
-- [ ] Profil Malt live avec portfolio
-- [ ] Profil LinkedIn optimisé avec liens
-- [ ] Site perso live avec offres
-- [ ] Cal.com opérationnel
-- [ ] Newsletter opérationnelle
-- [ ] Ce repo sur GitHub
+- [x] Profil Malt live avec portfolio
+- [x] Profil LinkedIn optimisé avec liens
+- [x] Site perso live avec offres
+- [x] Cal.com opérationnel
+- [x] Newsletter opérationnelle
+- [x] Ce repo sur GitHub
+
+> **Phase 0 terminée le 17 février 2026. Passage en Phase 1.**
 
 ---
 

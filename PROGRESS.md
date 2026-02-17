@@ -1,7 +1,7 @@
 # PROGRESS.md — Journal de Bord
 
 > Dernière mise à jour : 2026-02-17
-> Phase actuelle : Phase 0 — SETUP
+> Phase actuelle : Phase 1 — LANCEMENT
 
 ---
 
@@ -45,28 +45,30 @@
 
 | Tâche | Statut | Date | Notes |
 |---|---|---|---|
-| Repo freelance-hub créé sur GitHub | ⬜ | — | — |
-| Profil Malt complet | ⬜ | — | — |
-| Screenshots SaaS pour portfolio | ⬜ | — | — |
-| Photo de profil pro | ⬜ | — | — |
-| Profil LinkedIn optimisé | ⬜ | — | — |
-| Compte Twitter/X créé | ⬜ | — | — |
-| Domaine acheté | ⬜ | — | — |
-| Site perso live (Vercel) | ⬜ | — | — |
-| Cal.com configuré | ⬜ | — | — |
-| Brevo configuré | ⬜ | — | — |
-| Template devis prêt | ⬜ | — | — |
-| Template facture prêt | ⬜ | — | — |
-| CRM simplifié (Notion/Sheet) | ⬜ | — | — |
-| Alertes Malt activées | ⬜ | — | — |
+| Repo freelance-hub créé sur GitHub | ✅ | 17/02 | digitixailabs-jpg/Digitixai |
+| Profil Malt complet | ✅ | 17/02 | Bio, 12+ compétences, portfolio Leak Detector, expériences, domaines, charte signée, TJM 350€/jour |
+| Screenshots SaaS pour portfolio | 🟡 | 17/02 | Leak Detector fait. PayloadDiff en attente lancement marketing |
+| Photo de profil pro | ✅ | 17/02 | Même photo sur LinkedIn, Malt, Twitter |
+| Profil LinkedIn optimisé | ✅ | 17/02 | Headline, bio, expériences (Freelance + CTO Altistone), compétences, bannière custom, URL linkedin.com/in/fabricegangitano |
+| Compte Twitter/X créé | ✅ | 17/02 | @FabGangi, bio, bannière, photo, lien LinkedIn |
+| Domaine acheté | ✅ | — | altidigitech.com (déjà existant, déployé Vercel) |
+| Site perso live (Vercel) | ✅ | 17/02 | Mis à jour : Marseille, réalisations, offres packagées (990€/2500€/4900€), newsletter Brevo, Cal.com, email pro |
+| Cal.com configuré | ✅ | 17/02 | cal.com/altidigitech |
+| Brevo configuré | ✅ | 17/02 | Formulaire newsletter intégré au site, contact@altidigitech.com |
+| Template devis prêt | ✅ | 17/02 | Henrri (config SIRET/IBAN en attente) |
+| Template facture prêt | ✅ | 17/02 | Henrri (config SIRET/IBAN en attente) |
+| CRM simplifié (Notion/Sheet) | ⬜ | — | À faire |
+| Alertes Malt activées | ⬜ | — | Page projets Malt, à configurer |
 
 **Critères de sortie Phase 0 :**
-- [ ] Profil Malt live avec portfolio
-- [ ] Profil LinkedIn optimisé avec liens
-- [ ] Site perso live avec offres
-- [ ] Cal.com opérationnel
-- [ ] Newsletter opérationnelle
-- [ ] Ce repo sur GitHub
+- [x] Profil Malt live avec portfolio
+- [x] Profil LinkedIn optimisé avec liens
+- [x] Site perso live avec offres
+- [x] Cal.com opérationnel
+- [x] Newsletter opérationnelle
+- [x] Ce repo sur GitHub
+
+> **Phase 0 terminée le 17 février 2026. Passage en Phase 1.**
 
 ---
 
@@ -219,6 +221,9 @@
 | 2026-02-17 | Lancer le freelance en parallèle de la société | 2 SaaS prêts mais marketing société en attente. Besoin de cashflow immédiat. | En cours |
 | 2026-02-17 | Focus LinkedIn + Twitter (pas TikTok/YouTube) | ROI temps/résultat. B2B = LinkedIn. Indie = Twitter. Vidéo = trop chronophage. | En cours |
 | 2026-02-17 | 3 canaux de revenu (Malt + personal brand + micro-SaaS) | Diversification sans dispersion. Chaque canal nourrit les autres. | En cours |
+| 2026-02-17 | Site vitrine = altidigitech.com (pas site perso au nom) | Altidigitech = entité de facturation. Plus pro qu'un site personnel. Positionnement studio. | ✅ Live |
+| 2026-02-17 | Offres packagées : Audit 990€, API/IA 2500€, MVP SaaS 4900€ | Prix basés sur la valeur, pas sur le TJM. Audit = porte d'entrée, MVP = offre premium. | ✅ Sur le site |
+| 2026-02-17 | Email pro contact@altidigitech.com via Brevo | Remplace altidigitech@gmail.com sur le site et pour la newsletter. | ✅ Actif |
 
 ---
 
@@ -228,7 +233,8 @@
 
 | Date | Leçon | Contexte |
 |---|---|---|
-| — | — | — |
+| 2026-02-17 | Exécuter toute la Phase 0 en une seule session (1 jour) évite la procrastination | 7 fichiers .md préparés auparavant = bonne préparation. Mais l'exécution en bloc force à finir. |
+| 2026-02-17 | Les plateformes (Malt, LinkedIn) ont des contraintes spécifiques : listes fermées, champs imposés. Toujours vérifier sur la plateforme plutôt que préparer le contenu à l'aveugle. | Domaines d'expertise Malt = branches d'activité, pas compétences tech. |
 
 ---
 

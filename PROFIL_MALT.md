@@ -1,5 +1,26 @@
 # Profil Malt.fr — Guide Complet
 
+> Statut : ✅ Profil live et complet
+> URL : malt.fr/profile/fabricegangitano
+> TJM : 350€/jour
+> Dernière mise à jour : 2026-02-17
+
+---
+
+## STATUT ACTUEL
+
+- Profil complet (100%)
+- Charte freelance signée
+- Email vérifié
+- Portfolio : Leak Detector (screenshots uploadés)
+- Domaines d'expertise : E-commerce, Média et presse, Immobilier, Réseaux sociaux, Services numériques et IT
+- Compétences clés : Python, FastAPI, Next.js, Langchain, JavaScript
+- Autres compétences : TypeScript, API REST, Intelligence artificielle, Automatisation, SAAS + 7 autres
+- 2 expériences : Freelance (fév 2026) + Altistone Group CTO (juin 2025)
+- Langues : Français (natif), Anglais (professionnel)
+- Disponibilité : confirmée
+- À faire : config SIRET/IBAN, alertes missions
+
 ---
 
 ## TITRE DU PROFIL
