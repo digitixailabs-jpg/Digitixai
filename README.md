@@ -51,11 +51,25 @@ Dev Tool :   Claude Code
 
 | Offre | Ce que vous obtenez | Prix |
 |---|---|---|
-| **🔵 Audit & Plan** | Audit technique + architecture recommandée + roadmap chiffrée. Livrable PDF + call 30 min | 500€ fixe |
-| **🟢 MVP / Feature** | MVP SaaS fonctionnel ou feature complète livrée en production. Backend + frontend + auth + deploy | 2 500 — 5 000€ |
-| **🟡 Système complet** | SaaS complet ou agent IA + automatisations + intégrations + documentation + handover | 5 000 — 10 000€+ |
+| **🔵 Audit & Stratégie Technique** | Audit archi, recommandations, plan d'action PDF, call 1h | À partir de 990€ |
+| **🟢 API / Intégration IA** | API REST FastAPI, intégration LLM, automatisation, tests, déploiement, 30j support | À partir de 2 500€ |
+| **🟡 MVP SaaS Complet** | Backend + frontend + auth + Stripe + déploiement + monitoring, 60j support | À partir de 4 900€ |
 
-Aussi disponible en missions freelance via [Malt.fr →](https://www.malt.fr/profile/[ton-profil])
+Aussi disponible en missions freelance via [Malt.fr →](https://www.malt.fr/profile/fabricegangitano)
+
+---
+
+## 🔗 Liens
+
+- 🌐 [altidigitech.com](https://altidigitech.com) — Site vitrine
+- 💼 [LinkedIn](https://linkedin.com/in/fabricegangitano)
+- 🐦 [Twitter/X](https://x.com/FabGangi)
+- 🧑‍💻 [Malt](https://malt.fr/profile/fabricegangitano)
+- 📅 [Prendre RDV](https://cal.com/altidigitech)
+
+## 📊 Phase actuelle : Phase 1 — Lancement
+
+Phase 0 (Setup) terminée le 17 février 2026.
 
 ---
 
@@ -63,12 +77,12 @@ Aussi disponible en missions freelance via [Malt.fr →](https://www.malt.fr/pro
 
 | | |
 |---|---|
-| **Booker un call** | [cal.com/ton-lien](https://cal.com/ton-lien) |
-| **Site** | [ton-site.dev](https://ton-site.dev) |
-| **Malt** | [malt.fr/profile/ton-profil](https://www.malt.fr/profile/ton-profil) |
-| **LinkedIn** | [linkedin.com/in/ton-profil](https://linkedin.com/in/ton-profil) |
-| **Twitter/X** | [@ton-handle](https://twitter.com/ton-handle) |
-| **Email** | ton@email.com |
+| **Booker un call** | [cal.com/altidigitech](https://cal.com/altidigitech) |
+| **Site** | [altidigitech.com](https://altidigitech.com) |
+| **Malt** | [malt.fr/profile/fabricegangitano](https://www.malt.fr/profile/fabricegangitano) |
+| **LinkedIn** | [linkedin.com/in/fabricegangitano](https://linkedin.com/in/fabricegangitano) |
+| **Twitter/X** | [@FabGangi](https://x.com/FabGangi) |
+| **Email** | contact@altidigitech.com |
 
 ---
 

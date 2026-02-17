@@ -26,6 +26,10 @@ Je code avec Claude Code. Je ship vite, propre, et en production.
 - Je n'attends personne. Je contrôle tout.
 - Objectif : générer du cashflow rapidement via plusieurs canaux
 - Ce repo documente exclusivement le Monde 2
+- Statut actuel : Phase 0 terminée, Phase 1 (Lancement) en cours
+- Site : altidigitech.com (studio technologique, vitrine + offres + newsletter)
+- Email pro : contact@altidigitech.com
+- Facturation : via Altidigitech SASU (Henrri)
 
 **Tout ce qui suit concerne le Monde 2.**
 
@@ -70,6 +74,31 @@ Je suis un **builder de systèmes** — je prends un problème métier et je liv
 | **Email** | Brevo |
 | **CI/CD** | GitHub Actions |
 | **Dev Tool** | Claude Code |
+
+---
+
+## PRÉSENCE EN LIGNE
+
+| Plateforme | URL | Statut |
+|---|---|---|
+| Site web | altidigitech.com | ✅ Live |
+| LinkedIn | linkedin.com/in/fabricegangitano | ✅ Optimisé |
+| Malt | malt.fr/profile/fabricegangitano | ✅ Profil complet, TJM 350€/jour |
+| Twitter/X | x.com/FabGangi | ✅ Créé |
+| Cal.com | cal.com/altidigitech | ✅ Opérationnel |
+| Newsletter | Brevo (contact@altidigitech.com) | ✅ Formulaire sur le site |
+| Facturation | Henrri | ✅ Compte créé (config SIRET/IBAN en attente) |
+| GitHub | github.com/digitixailabs-jpg | ✅ Actif |
+
+---
+
+## OFFRES PACKAGÉES
+
+| Offre | Prix | Délai | Contenu |
+|---|---|---|---|
+| Audit & Stratégie Technique | À partir de 990€ | 3-5 jours | Audit archi, recommandations, plan d'action PDF, call 1h |
+| API / Intégration IA | À partir de 2 500€ | 1-2 semaines | API REST FastAPI, intégration LLM, automatisation, tests, déploiement, 30j support |
+| MVP SaaS Complet | À partir de 4 900€ | 2-4 semaines | Backend + frontend + auth + Stripe + déploiement + monitoring, 60j support |
 
 ---
 
