@@ -1,4 +1,4 @@
-# 🚀 Freelance Hub — [Ton Prénom Nom]
+# 🚀 Freelance Hub — Gangitano Fabrice
 
 > Développeur Python / Next.js — Je construis des SaaS, APIs, Agents IA & Automatisations qui tournent en production.
 
@@ -22,7 +22,7 @@ Proxy de monitoring pour webhooks. Détecte les breaking changes de schéma JSON
 
 `FastAPI · Celery · Redis · Next.js 14 · TypeScript · Supabase · Stripe · Railway · Vercel · Cloudflare`
 
-### Leak Detector
+### Leak Detector [leakdetector.tech](https://leakdetector.tech)
 Audit IA de landing pages en 30 secondes. Playwright capture la page, Claude API analyse chaque élément, rapport détaillé avec recommandations actionnables.
 
 `FastAPI · Playwright · Claude API · Celery · Redis · Next.js 14 · TypeScript · Supabase · Stripe`
